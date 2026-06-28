@@ -43,7 +43,6 @@ The dataset will be released together with the code and model checkpoints.
 - [ ] Training code
 - [ ] Evaluation code
 - [ ] Data preprocessing scripts
-- [ ] Documentation
 
 ## Citation
 
